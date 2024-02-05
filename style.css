@@ -75,6 +75,7 @@ h1 span{
 
 header > p{
     font-size: var(--fs-500);
+    font-weight: var(--fw-light);
 }
 
 .layout-grid{
